@@ -1,2 +1,2 @@
-# Simple-CI-CD-Demo
+# Simple-CICD-Demo
 Working on CI/CD implementation 
